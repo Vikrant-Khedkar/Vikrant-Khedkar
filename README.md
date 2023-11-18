@@ -6,19 +6,18 @@
 ### <div align="center">Hi I'm Vikrant </div>  
   
 
-- 👀 I’m interested in Backend Devlopment
+- 👀 I’m interested in Backend, WEB3.0 and Fullstack
+
+
+- 🌱 I’m currently learning WEB3.0
   
   
 
-- 🌱 I’m currently learning RestFramework
+- 💞️ I’m looking for internships.
   
   
 
-- 💞️ I’m looking to collaborate on Django and RestFramework
-  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: Learning never ends
   
 
 <br/>  
